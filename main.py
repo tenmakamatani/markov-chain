@@ -6,8 +6,8 @@ def main():
 
     # テキストファイルのパス
     path = 'data.txt'
+    
     # 最初の単語
-
     first_word = 'リビング'
 
     # 連鎖数の上限
