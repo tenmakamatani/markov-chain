@@ -24,3 +24,13 @@ $ pipenv run python index.py
 $ pip install janome
 $ python index.py
 ```
+
+## Change sentences
+
+You can change this sentence.
+
+```index.py
+first_word = 'リビング'
+```
+
+or change data.txt
